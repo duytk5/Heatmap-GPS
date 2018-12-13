@@ -21,9 +21,9 @@ View world maps heatmaps in ``result/geo_heatmap.html``
 
 ## Setting Params to HeatMap
 
-max_val
-radius, blur, and max_zoom
-min_opacity
+``max_val
+radius, blur, max_zoom
+min_opacity``
 
 ## Blog-Article
 [link](https://alcidanalytics.com/p/geographic-heatmap-in-python)
