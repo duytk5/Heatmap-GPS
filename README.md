@@ -26,4 +26,4 @@ radius, blur, and max_zoom
 min_opacity
 
 ## Blog-Article
-[Making a Geographic Heatmap with Python] (https://alcidanalytics.com/p/geographic-heatmap-in-python)
+[link](https://alcidanalytics.com/p/geographic-heatmap-in-python)
